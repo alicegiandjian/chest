@@ -1,6 +1,7 @@
 # chest
 
 You must add money to play the game (Add Money Button), and then pick a chest and try your luck at winning. 
+
 ![game image](https://cdn.discordapp.com/attachments/593299696055877642/635019891543506944/unknown.png)
 
 ## Built With
